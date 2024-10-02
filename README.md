@@ -1,0 +1,1 @@
+# InformaticaBasica_2024_2025
