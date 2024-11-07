@@ -19,7 +19,13 @@ int main(){
     int num{0};
     int result{0};
     std::cin >> num;
-      
+
+    int aux{1};
+
+    if(num%2 == 0){
+      aux = 0;
+    }
+
     while (num > 0) {
       result *= 10;
       result += num%2;
@@ -30,7 +36,10 @@ int main(){
       std::cout << result%10;
       result = result/10;
     }
+    if(aux == 0){
+      std::cout << aux;
+    }
+
     std::cout << std::endl;
-    
     return 0;
 }
