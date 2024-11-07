@@ -25,7 +25,6 @@ int main () {
 
   if(numb1==0) {
     std::cout << std::fixed << std::setprecision(4) << static_cast<double>(numb1) << std::endl;
-
   }
 
   else {
