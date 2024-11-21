@@ -1,0 +1,3 @@
+/home/usuario/practicas/ib-2023-2024-p09-functions2-alu0101551371/capitalize/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/ib-2023-2024-p09-functions2-alu0101551371/capitalize/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/ib-2023-2024-p09-functions2-alu0101551371/capitalize/build/CMakeFiles/capitalize-vowels.dir
