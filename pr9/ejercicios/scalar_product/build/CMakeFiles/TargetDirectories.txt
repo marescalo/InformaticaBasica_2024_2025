@@ -1,0 +1,3 @@
+/home/usuario/InformaticaBasica_2024_2025/pr9/ejercicios/scalar_product/build/CMakeFiles/scalar_product.dir
+/home/usuario/InformaticaBasica_2024_2025/pr9/ejercicios/scalar_product/build/CMakeFiles/edit_cache.dir
+/home/usuario/InformaticaBasica_2024_2025/pr9/ejercicios/scalar_product/build/CMakeFiles/rebuild_cache.dir

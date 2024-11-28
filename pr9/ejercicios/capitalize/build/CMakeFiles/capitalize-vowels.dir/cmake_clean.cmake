@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/capitalize-vowels.dir/src/capitalize-vowels-main.cc.o"
+  "CMakeFiles/capitalize-vowels.dir/src/capitalize-vowels-main.cc.o.d"
   "CMakeFiles/capitalize-vowels.dir/src/capitalize-vowels.cc.o"
+  "CMakeFiles/capitalize-vowels.dir/src/capitalize-vowels.cc.o.d"
   "capitalize-vowels"
   "capitalize-vowels.pdb"
 )

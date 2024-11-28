@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hypotenuse.dir/src/hypotenuse.cc.o"
+  "CMakeFiles/hypotenuse.dir/src/hypotenuse.cc.o.d"
   "CMakeFiles/hypotenuse.dir/src/hypotenuse_main.cc.o"
+  "CMakeFiles/hypotenuse.dir/src/hypotenuse_main.cc.o.d"
   "hypotenuse"
   "hypotenuse.pdb"
 )

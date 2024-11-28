@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/double_factorial.dir/src/double_factorial.cc.o CMakeFiles/double_factorial.dir/src/double_factorial_main.cc.o -o double_factorial 

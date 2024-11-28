@@ -1,0 +1,3 @@
+/home/usuario/InformaticaBasica_2024_2025/pr9/clase/minimum_maximum/build/CMakeFiles/minimum_maximun.dir
+/home/usuario/InformaticaBasica_2024_2025/pr9/clase/minimum_maximum/build/CMakeFiles/edit_cache.dir
+/home/usuario/InformaticaBasica_2024_2025/pr9/clase/minimum_maximum/build/CMakeFiles/rebuild_cache.dir
