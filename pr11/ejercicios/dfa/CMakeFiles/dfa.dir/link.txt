@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/dfa.dir/src/dfa.cc.o "CMakeFiles/dfa.dir/src/dfa-main.cc.o" -o build/dfa 
