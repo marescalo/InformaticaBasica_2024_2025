@@ -1,0 +1,34 @@
+Práctica 12: Introducción a la OOP. Depuración
+Ejercicios de evaluación - Jueves 12 de diciembre 19:00 - 20:00
+LEA CON DETENIMIENTO TODO LO QUE SE EXPONE ESTAS INDICACIONES
+Abra un navegador y autentifíquese en la página http://valida.ull.es/ Mantenga esa página abierta mientras realiza su práctica. Recuerde que ha de realizar esta conexión cuando acuda a las salas del CC para evaluar sus prácticas, de otro modo la conexión con su máquina virtual no funcionará.
+Abra a continuación una terminal y conecte con su máquina virtual. 
+Abra pestañas adicionales en el navegador para mostrar:
+El enunciado de la práctica. 
+Estas instrucciones.
+El repositorio GitHub en el que ha trabajado en esta práctica.
+Si necesita consultar en su navegador alguna página diferente de las anteriores, hágaselo saber al profesor/a responsable de la evaluación.
+Desarrolle los siguientes ejercicios en subdirectorios diferentes con nombres PXXXXX_problemDescription.
+Recuerde que sus programas han de cumplir con los requisitos de la Guía de Estilo que se sigue en la asignatura, así como contener comentarios “prólogo”, que han de escribirse antes de comenzar a desarrollar el programa.
+
+Avise al profesor responsable de la evaluación cuando su programa esté correctamente escrito y listo para su evaluación. Hágalo a lo sumo 10 minutos antes de la hora de finalización de la sesión.
+Desarrolle los siguientes ejercicios de la práctica con nombre significativo. Trabaje por orden en cada uno de los siguientes ejercicios, haciendo que todas las clases  que desarrolle tengan como mínimo dos métodos..
+MUY IMPORTANTE: Tenga muy en cuenta los “PRINCIPIOS” de la Programación Orientada a Objetos. Herencia, Polimorfismo y Encapsulamiento
+Avise al profesor responsable de la evaluación cuando finalice los siguientes ejercicios que se proponen..
+Una empresa de alquiler de vehículos (coches, motocicletas, bicicletas, caravanas y barcos) tiene una aplicación de reserva con la que los clientes pueden contratar servicios de alquiler. Los usuarios de la aplicación se clasifican en clientes, administradores, operadores y agencias de viaje.
+Se pide crear la superclase vehículos y todas subclases derivadas (coches, motocicletas, bicicletas, caravanas y barcos). Definiendo los atributos propios y heredados, así como los métodos propios y heredados, para poder crear los objetos que representen dichos elementos.
+Sabemos que los vehículos se pueden alquilar por periodos de tiempo:
+Coches: Alquiler por días, con un coste diario, fecha de inicio del alquiler y número de días del alquiler.
+Motocicletas: Alquiler por horas, con un coste por hora, fecha de inicio del alquiler y número de horas del alquiler.
+Bicicletas: Alquiler por horas, con un coste por hora, fecha de inicio del alquiler y número de horas del alquiler.
+Caravanas: Alquiler por semanas (7 días), con un coste semanal, fecha de inicio del alquiler y número de semanas del alquiler.
+Barcos: Alquiler por semanas (7 días), con un coste semanal, fecha de inicio del alquiler y número de semanas del alquiler.
+Se pide crear la superclase usuarios y todas subclases derivadas (clientes, administradores, operadores, agencias de viaje). Definiendo los atributos propios y heredados, así como los métodos propios y heredados, para poder crear los objetos que representen dichos elementos.
+El programa principal, permitirá crear tantos vehículos como queramos, definiendo en ese momento, que cliente tiene alquilado dicho vehículo y por cuánto tiempo..
+Podremos conocer en cualquier momento cuánto serán los ingresos esperados derivados del alquiler de los vehículos que tengamos en alquiler.
+Podremos conocer en cualquier momento qué vehículos de la flota están sin alquilar y cual es el importe que estamos dejando de facturar.
+
+Al finalizar la sesión de evaluación recuerde que ha de subir a a la tarea del aula virtual:
+Un fichero .tar.gz  que contenga el contenido de directorio de trabajo de esta práctica. Excluya previamente de ese directorio todos los ficheros binarios
+tar czvf Apellido1Apellido2Nombre-IB-Practica0X-XXX.tar.gz p0X-XXX
+Si no sube ese fichero la práctica no será evaluada
